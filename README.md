@@ -3,7 +3,8 @@ This project involves analyzing the Apple AppStore dataset to gain insights and 
 ## Installation
 Jupyter Notebook
 ## Dataset
-The dataset used for the analysis is the Apple AppStore dataset. It contains information about the apps available on the AppStore, including their category, rating, price, and more.
+Download DataSet: [Click Here](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps/download?datasetVersionNumber=1)
+<br>The dataset used for the analysis is the Apple AppStore dataset. It contains information about the apps available on the AppStore, including their category, rating, price, and more.
 ## Exploratory Data Analysis
 The following steps were taken during the exploratory data analysis process:
 * Univariate analysis to understand the distribution of each variable
